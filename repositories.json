@@ -1,0 +1,37 @@
+{
+	"focus-stats": {
+		"repository": "L-U-M-E-N/lumen-module-focus-stats",
+		"official": true,
+		"repositoryType": "github"
+	},
+	"monitoring": {
+		"repository": "L-U-M-E-N/lumen-module-monitoring",
+		"official": true,
+		"repositoryType": "github"
+	},
+	"music": {
+		"repository": "L-U-M-E-N/lumen-module-music",
+		"official": true,
+		"repositoryType": "github"
+	},
+	"personalStats": {
+		"repository": "L-U-M-E-N/lumen-module-personalStats",
+		"official": true,
+		"repositoryType": "github"
+	},
+	"pictureOfTheMoment": {
+		"repository": "L-U-M-E-N/lumen-module-pictureOfTheMoment",
+		"official": true,
+		"repositoryType": "github"
+	},
+	"steamAchievements": {
+		"repository": "L-U-M-E-N/lumen-module-steamAchievements",
+		"official": true,
+		"repositoryType": "github"
+	},
+	"youtube": {
+		"repository": "L-U-M-E-N/lumen-module-youtube",
+		"official": true,
+		"repositoryType": "github"
+	}
+}
