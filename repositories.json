@@ -1,24 +1,240 @@
 {
-	"calendar": {
+    "calendar": {
         "repository": "L-U-M-E-N/lumen-module-calendar",
         "official": true,
-        "repositoryType": "github"
+        "repositoryType": "github",
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar/releases/63779008",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar/releases/63779008/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-calendar/releases/63779008/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-calendar/releases/tag/1.0.0",
+                "id": 63779008,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOGALog84DzTDA",
+                "tag_name": "1.0.0",
+                "target_commitish": "main",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-01-29T15:32:30Z",
+                "published_at": "2022-04-06T17:44:28Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
+        "moduleJson": {
+            "name": "calendar",
+            "fullName": "Calendar importer",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": false,
+                "window": false
+            },
+            "mobile": {
+                "module": false,
+                "window": false
+            },
+            "server": true,
+            "config": {
+                "calendars": "object[]"
+            }
+        }
     },
-	"calendar-netflixhistory": {
+    "calendar-netflixhistory": {
         "repository": "L-U-M-E-N/lumen-module-calendar-netflixhistory",
         "official": true,
-        "repositoryType": "github"
+        "repositoryType": "github",
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-netflixhistory/releases/63779034",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-netflixhistory/releases/63779034/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-calendar-netflixhistory/releases/63779034/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-calendar-netflixhistory/releases/tag/1.0.0",
+                "id": 63779034,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOGAMjU84DzTDa",
+                "tag_name": "1.0.0",
+                "target_commitish": "main",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-01-29T15:31:41Z",
+                "published_at": "2022-04-06T17:44:47Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-netflixhistory/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-netflixhistory/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
+        "moduleJson": {
+            "name": "calendar-netflix",
+            "fullName": "Netflix history calendar importer",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": false,
+                "window": false
+            },
+            "mobile": {
+                "module": false,
+                "window": false
+            },
+            "server": true,
+            "config": {}
+        }
     },
-	"calendar-amazonprimehistory": {
+    "calendar-amazonprimehistory": {
         "repository": "L-U-M-E-N/lumen-module-calendar-amazonprimehistory",
         "official": true,
-        "repositoryType": "github"
+        "repositoryType": "github",
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-amazonprimehistory/releases/63779041",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-amazonprimehistory/releases/63779041/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-calendar-amazonprimehistory/releases/63779041/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-calendar-amazonprimehistory/releases/tag/1.0.0",
+                "id": 63779041,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOGAMhhM4DzTDh",
+                "tag_name": "1.0.0",
+                "target_commitish": "main",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-01-29T14:29:07Z",
+                "published_at": "2022-04-06T17:44:58Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-amazonprimehistory/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-calendar-amazonprimehistory/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
+        "moduleJson": {
+            "name": "calendar-amazon",
+            "fullName": "Amazon history calendar importer",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": false,
+                "window": false
+            },
+            "mobile": {
+                "module": false,
+                "window": false
+            },
+            "server": true,
+            "config": {}
+        }
     },
     "focus-stats": {
         "repository": "L-U-M-E-N/lumen-module-focus-stats",
         "official": true,
         "repositoryType": "github",
-        "versions": [],
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-focus-stats/releases/63778962",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-focus-stats/releases/63778962/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-focus-stats/releases/63778962/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-focus-stats/releases/tag/1.0.0",
+                "id": 63778962,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOFhp0Y84DzTCS",
+                "tag_name": "1.0.0",
+                "target_commitish": "master",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-03-26T11:26:12Z",
+                "published_at": "2022-04-06T17:43:50Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-focus-stats/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-focus-stats/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
         "moduleJson": {
             "name": "focus-stats",
             "fullName": "Focus stats module",
@@ -40,7 +256,47 @@
         "repository": "L-U-M-E-N/lumen-module-monitoring",
         "official": true,
         "repositoryType": "github",
-        "versions": [],
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-monitoring/releases/63779366",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-monitoring/releases/63779366/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-monitoring/releases/63779366/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-monitoring/releases/tag/1.0.0",
+                "id": 63779366,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOEw6Wfs4DzTIm",
+                "tag_name": "1.0.0",
+                "target_commitish": "master",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-01-29T14:11:26Z",
+                "published_at": "2022-04-06T17:48:04Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-monitoring/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-monitoring/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
         "moduleJson": {
             "name": "monitoring",
             "fullName": "L.U.M.E.N. monitoring module",
@@ -65,6 +321,45 @@
         "official": true,
         "repositoryType": "github",
         "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/releases/63779338",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/releases/63779338/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-music/releases/63779338/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-music/releases/tag/1.1.0",
+                "id": 63779338,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOEw6XWc4DzTIK",
+                "tag_name": "1.1.0",
+                "target_commitish": "master",
+                "name": "1.1.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-04-06T17:46:42Z",
+                "published_at": "2022-04-06T17:47:38Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/tarball/1.1.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/zipball/1.1.0",
+                "body": "- #1081 - Replace all \"require\" by \"import\"\r\n- Updated AppDataManager to work with import instead of require\r\n- Scan for wav files as well\r\n- Use ConfigManager.get() instead of hardcoded configuration\r\n- Fix module when there's no configuration \r\n- Update LICENSE\r\n- Support OPUS format"
+            },
             {
                 "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/releases/48247371",
                 "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/releases/48247371/assets",
@@ -128,7 +423,47 @@
         "repository": "L-U-M-E-N/lumen-module-personalStats",
         "official": true,
         "repositoryType": "github",
-        "versions": [],
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-personalStats/releases/63779095",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-personalStats/releases/63779095/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-personalStats/releases/63779095/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-personalStats/releases/tag/1.0.0",
+                "id": 63779095,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOE99bTs4DzTEX",
+                "tag_name": "1.0.0",
+                "target_commitish": "master",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-01-29T14:13:04Z",
+                "published_at": "2022-04-06T17:45:36Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-personalStats/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-personalStats/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
         "moduleJson": {
             "name": "personalStats",
             "fullName": "Personal Stats Module",
@@ -152,7 +487,47 @@
         "repository": "L-U-M-E-N/lumen-module-pictureOfTheMoment",
         "official": true,
         "repositoryType": "github",
-        "versions": [],
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-pictureOfTheMoment/releases/63779071",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-pictureOfTheMoment/releases/63779071/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-pictureOfTheMoment/releases/63779071/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-pictureOfTheMoment/releases/tag/1.0.0",
+                "id": 63779071,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOE9q9mc4DzTD_",
+                "tag_name": "1.0.0",
+                "target_commitish": "master",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-01-29T14:13:30Z",
+                "published_at": "2022-04-06T17:45:19Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-pictureOfTheMoment/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-pictureOfTheMoment/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
         "moduleJson": {
             "name": "picture",
             "fullName": "L.U.M.E.N. picture module",
@@ -176,7 +551,47 @@
         "repository": "L-U-M-E-N/lumen-module-steamAchievements",
         "official": true,
         "repositoryType": "github",
-        "versions": [],
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-steamAchievements/releases/63779059",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-steamAchievements/releases/63779059/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-steamAchievements/releases/63779059/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-steamAchievements/releases/tag/1.0.0",
+                "id": 63779059,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOFhpRUs4DzTDz",
+                "tag_name": "1.0.0",
+                "target_commitish": "master",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-01-29T14:15:15Z",
+                "published_at": "2022-04-06T17:45:10Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-steamAchievements/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-steamAchievements/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
         "moduleJson": {
             "name": "steamAchievements",
             "fullName": "L.U.M.E.N. steam achievements",
@@ -266,7 +681,47 @@
         "repository": "L-U-M-E-N/lumen-module-youtube",
         "official": true,
         "repositoryType": "github",
-        "versions": [],
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-youtube/releases/63778986",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-youtube/releases/63778986/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-youtube/releases/63778986/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-youtube/releases/tag/1.0.0",
+                "id": 63778986,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "RE_kwDOF8Eavs4DzTCq",
+                "tag_name": "1.0.0",
+                "target_commitish": "main",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2022-03-11T17:38:51Z",
+                "published_at": "2022-04-06T17:44:05Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-youtube/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-youtube/zipball/1.0.0",
+                "body": "Stable version"
+            }
+        ],
         "moduleJson": {
             "name": "youtube",
             "fullName": "L.U.M.E.N. youtube module",
