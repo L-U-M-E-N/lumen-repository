@@ -1,4 +1,19 @@
 {
+	"calendar": {
+        "repository": "L-U-M-E-N/lumen-module-calendar",
+        "official": true,
+        "repositoryType": "github",
+    },
+	"calendar-netflixhistory": {
+        "repository": "L-U-M-E-N/lumen-module-calendar-netflixhistory",
+        "official": true,
+        "repositoryType": "github",
+    },
+	"calendar-amazonprimehistory": {
+        "repository": "L-U-M-E-N/lumen-module-calendar-amazonprimehistory",
+        "official": true,
+        "repositoryType": "github",
+    },
     "focus-stats": {
         "repository": "L-U-M-E-N/lumen-module-focus-stats",
         "official": true,
