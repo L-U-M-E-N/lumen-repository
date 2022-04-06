@@ -1,37 +1,209 @@
 {
-	"focus-stats": {
-		"repository": "L-U-M-E-N/lumen-module-focus-stats",
-		"official": true,
-		"repositoryType": "github"
-	},
-	"monitoring": {
-		"repository": "L-U-M-E-N/lumen-module-monitoring",
-		"official": true,
-		"repositoryType": "github"
-	},
-	"music": {
-		"repository": "L-U-M-E-N/lumen-module-music",
-		"official": true,
-		"repositoryType": "github"
-	},
-	"personalStats": {
-		"repository": "L-U-M-E-N/lumen-module-personalStats",
-		"official": true,
-		"repositoryType": "github"
-	},
-	"pictureOfTheMoment": {
-		"repository": "L-U-M-E-N/lumen-module-pictureOfTheMoment",
-		"official": true,
-		"repositoryType": "github"
-	},
-	"steamAchievements": {
-		"repository": "L-U-M-E-N/lumen-module-steamAchievements",
-		"official": true,
-		"repositoryType": "github"
-	},
-	"youtube": {
-		"repository": "L-U-M-E-N/lumen-module-youtube",
-		"official": true,
-		"repositoryType": "github"
-	}
+    "focus-stats": {
+        "repository": "L-U-M-E-N/lumen-module-focus-stats",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [],
+        "moduleJson": {
+            "name": "focus-stats",
+            "fullName": "Focus stats module",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": true,
+                "window": true
+            },
+            "mobile": {
+                "module": false,
+                "window": false
+            },
+            "config": {}
+        }
+    },
+    "monitoring": {
+        "repository": "L-U-M-E-N/lumen-module-monitoring",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [],
+        "moduleJson": {
+            "name": "monitoring",
+            "fullName": "L.U.M.E.N. monitoring module",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": true,
+                "window": true
+            },
+            "mobile": {
+                "module": true,
+                "window": true
+            },
+            "config": {
+                "urls": "object[]"
+            }
+        }
+    },
+    "music": {
+        "repository": "L-U-M-E-N/lumen-module-music",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [
+            {
+                "url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/releases/48247371",
+                "assets_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/releases/48247371/assets",
+                "upload_url": "https://uploads.github.com/repos/L-U-M-E-N/lumen-module-music/releases/48247371/assets{?name,label}",
+                "html_url": "https://github.com/L-U-M-E-N/lumen-module-music/releases/tag/1.0.0",
+                "id": 48247371,
+                "author": {
+                    "login": "Elanis",
+                    "id": 7013446,
+                    "node_id": "MDQ6VXNlcjcwMTM0NDY=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/7013446?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Elanis",
+                    "html_url": "https://github.com/Elanis",
+                    "followers_url": "https://api.github.com/users/Elanis/followers",
+                    "following_url": "https://api.github.com/users/Elanis/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Elanis/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Elanis/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Elanis/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Elanis/orgs",
+                    "repos_url": "https://api.github.com/users/Elanis/repos",
+                    "events_url": "https://api.github.com/users/Elanis/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Elanis/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "node_id": "MDc6UmVsZWFzZTQ4MjQ3Mzcx",
+                "tag_name": "1.0.0",
+                "target_commitish": "master",
+                "name": "1.0.0",
+                "draft": false,
+                "prerelease": false,
+                "created_at": "2021-08-21T15:48:45Z",
+                "published_at": "2021-08-22T20:56:21Z",
+                "assets": [],
+                "tarball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/tarball/1.0.0",
+                "zipball_url": "https://api.github.com/repos/L-U-M-E-N/lumen-module-music/zipball/1.0.0",
+                "body": ""
+            }
+        ],
+        "moduleJson": {
+            "name": "music",
+            "fullName": "L.U.M.E.N. music module",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": true,
+                "window": true
+            },
+            "mobile": {
+                "module": true,
+                "window": true
+            },
+            "config": {
+                "directories": "string[]"
+            }
+        }
+    },
+    "personalStats": {
+        "repository": "L-U-M-E-N/lumen-module-personalStats",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [],
+        "moduleJson": {
+            "name": "personalStats",
+            "fullName": "Personal Stats Module",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": true,
+                "window": false
+            },
+            "mobile": {
+                "module": false,
+                "window": false
+            },
+            "config": {
+                "activities": "object"
+            }
+        }
+    },
+    "pictureOfTheMoment": {
+        "repository": "L-U-M-E-N/lumen-module-pictureOfTheMoment",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [],
+        "moduleJson": {
+            "name": "picture",
+            "fullName": "L.U.M.E.N. picture module",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": true,
+                "window": false
+            },
+            "mobile": {
+                "module": true,
+                "window": false
+            },
+            "config": {
+                "directories": "string[]"
+            }
+        }
+    },
+    "steamAchievements": {
+        "repository": "L-U-M-E-N/lumen-module-steamAchievements",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [],
+        "moduleJson": {
+            "name": "steamAchievements",
+            "fullName": "L.U.M.E.N. steam achievements",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": true,
+                "window": false
+            },
+            "mobile": {
+                "module": false,
+                "window": false
+            },
+            "config": {
+                "username": "string"
+            }
+        }
+    },
+    "youtube": {
+        "repository": "L-U-M-E-N/lumen-module-youtube",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [],
+        "moduleJson": {
+            "name": "youtube",
+            "fullName": "L.U.M.E.N. youtube module",
+            "author": "Elanis",
+            "version": "1.0.0",
+            "dependencies": {},
+            "desktop": {
+                "module": true,
+                "window": false
+            },
+            "mobile": {
+                "module": false,
+                "window": false
+            },
+            "config": {
+                "API_KEY": "string",
+                "PLAYLIST_ID": "string"
+            }
+        }
+    }
 }
