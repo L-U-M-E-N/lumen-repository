@@ -181,6 +181,15 @@
             }
         }
     },
+    "steam-sold-wishlist": {
+        "repository": "L-U-M-E-N/lumen-module-steam-sold-wishlist",
+        "official": true,
+        "repositoryType": "github",
+        "versions": [],
+        "moduleJson": {
+
+        }
+   	},
     "youtube": {
         "repository": "L-U-M-E-N/lumen-module-youtube",
         "official": true,
