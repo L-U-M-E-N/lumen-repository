@@ -2,17 +2,17 @@
 	"calendar": {
         "repository": "L-U-M-E-N/lumen-module-calendar",
         "official": true,
-        "repositoryType": "github",
+        "repositoryType": "github"
     },
 	"calendar-netflixhistory": {
         "repository": "L-U-M-E-N/lumen-module-calendar-netflixhistory",
         "official": true,
-        "repositoryType": "github",
+        "repositoryType": "github"
     },
 	"calendar-amazonprimehistory": {
         "repository": "L-U-M-E-N/lumen-module-calendar-amazonprimehistory",
         "official": true,
-        "repositoryType": "github",
+        "repositoryType": "github"
     },
     "focus-stats": {
         "repository": "L-U-M-E-N/lumen-module-focus-stats",
