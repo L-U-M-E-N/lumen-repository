@@ -1,5 +1,4 @@
 import fs from 'fs';
-import fetch from 'node-fetch';
 
 const modulesList = JSON.parse(fs.readFileSync('./repositories.json', 'utf-8'));
 
