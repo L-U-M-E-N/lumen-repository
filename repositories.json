@@ -1200,6 +1200,10 @@
             }
         }
     },
+    "notabot-stats": {
+        "repositoryType": "github",
+        "repository": "https://github.com/L-U-M-E-N/lumen-module-notabot-stats"
+    },
     "personalStats": {
         "repository": "L-U-M-E-N/lumen-module-personalStats",
         "official": true,
