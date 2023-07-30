@@ -2133,14 +2133,13 @@
             "version": "1.0.0",
             "dependencies": {},
             "desktop": {
-                "module": false,
+                "module": true,
                 "window": false
             },
             "mobile": {
-                "module": false,
+                "module": true,
                 "window": false
             },
-            "server": true,
             "config": {
                 "soldPackages": "object[]",
                 "wishlistApps": "object[]",
