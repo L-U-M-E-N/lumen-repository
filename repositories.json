@@ -1448,13 +1448,14 @@
             "version": "1.0.0",
             "dependencies": {},
             "desktop": {
-                "module": true,
+                "module": false,
                 "window": false
             },
             "mobile": {
                 "module": false,
                 "window": false
             },
+            "server": true,
             "config": {}
         }
     },
